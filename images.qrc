@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/bossbullet.png</file>
+        <file>images/enemybullet.png</file>
+        <file>images/lifesupply.png</file>
+        <file>images/mybullet.png</file>
+        <file>images/warofplanes.jpg</file>
+        <file>images/warofplanesicon.ico</file>
+        <file>images/background.jpg</file>
+        <file>images/mygreatbullet.png</file>
+        <file>images/skillprop1.png</file>
+        <file>images/skillprop2.png</file>
+        <file>images/missile.png</file>
+        <file>images/enemyplane.png</file>
+        <file>images/boss.png</file>
+        <file>images/bigboss.png</file>
+        <file>images/balanceplane.png</file>
+        <file>images/lifeplane.png</file>
+        <file>images/movespeedplane.png</file>
+        <file>images/shootspeedplane.png</file>
+        <file>images/balanceplaneicon.png</file>
+        <file>images/lifeplaneicon.png</file>
+        <file>images/movespeedplaneicon.png</file>
+        <file>images/shootspeedplaneicon.png</file>
+        <file>images/widgetbackground.bmp</file>
+        <file>images/widgetbackground.png</file>
+        <file>images/mybullet.bmp</file>
+        <file>images/skillprop3.png</file>
+        <file>images/skillprop4.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>music/victory.mp3</file>
+    </qresource>
+    <qresource prefix="/ico">
+        <file>ico/close.png</file>
+        <file>ico/pause.png</file>
+        <file>ico/play.png</file>
+        <file>ico/password.png</file>
+        <file>ico/user.png</file>
+        <file>ico/logo.png</file>
+    </qresource>
+</RCC>
